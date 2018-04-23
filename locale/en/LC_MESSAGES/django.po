@@ -563,7 +563,7 @@ msgstr ""
 
 #: web/templates/oyz.html:13
 msgid "Etkinlik Kayıt"
-msgstr ""
+msgstr "Register"
 
 #: web/views.py:53
 msgid "User not found"
